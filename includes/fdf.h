@@ -50,8 +50,8 @@
 
 # define ESCAPE 65307
 # define W		119
-# define A		100
-# define D		97
+# define D		100
+# define A		97
 # define S		115
 # define SPACE	32
 # define R		114
